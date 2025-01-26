@@ -8,7 +8,9 @@ Welcome to the **Online Prescription Generator** project. This application helps
 - **Health Tips**: Get valuable tips for maintaining a healthy lifestyle.
 - **Registration & Login**: Users can create an account or log in to access prescription generation.
 - **Disease Control**: Stay informed about different diseases and their control measures.
-
+**Symptom-Based Input**
+**Prescription Generation**
+  
 ## How to Use
 
 1. **Clone the repository**:
@@ -33,7 +35,13 @@ Feel ![WhatsApp Image 2025-01-26 at 17 26 55_55fa2f23](https://github.com/user-a
 
 fre![WhatsApp Image 2025-01-26 at 17 26 13_5776b305](https://github.com/user-attachments/assets/b749762a-cb73-4ae4-8053-530970547be9)
 e to fork this repository, make changes, and submit pull requests. All contributions are welcome!
+##Symptoms Input
+![image](https://github.com/user-attachments/assets/20467a65-0154-469b-9cf0-cd4a901b1193)
+##Order Medicine
+![image](https://github.com/user-attachments/assets/becf94f4-09fc-423d-a116-a002963e6617)
 
 ## Contact Us
+![image](https://github.com/user-attachments/assets/0217e9d9-5e49-44e0-b1c6-fa95eec6aeca)
+
 
 If you have any questions or need further information, feel free to contact.
