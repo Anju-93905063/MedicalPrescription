@@ -20,8 +20,18 @@ git clone https://github.com/Anju-93905063/MedicalPrescription.git
 ## How to Contribute
 ![WhatsApp Image 2025-01-26 at 17 26 55_6c60ef1a](https://github.com/user-attachments/assets/34505476-a837-4e2d-be7a-25f7041fec8d)
 
+##Registration
 
-Feel free to fork this repository, make changes, and submit pull requests. All contributions are welcome!
+Feel ![WhatsApp Image 2025-01-26 at 17 26 55_55fa2f23](https://github.com/user-attachments/assets/e72d0ff7-664c-4fb1-8d9f-8726790ed726)
+
+##About
+
+![WhatsApp Image 2025-01-26 at 17 28 03_887fdd7f](https://github.com/user-attachments/assets/02e1905c-9b14-42ea-bbb5-d8f0a9bd313a)
+
+##Disease Control
+
+fre![WhatsApp Image 2025-01-26 at 17 26 13_5776b305](https://github.com/user-attachments/assets/b749762a-cb73-4ae4-8053-530970547be9)
+e to fork this repository, make changes, and submit pull requests. All contributions are welcome!
 
 ## Contact Us
 
