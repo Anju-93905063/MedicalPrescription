@@ -18,7 +18,8 @@ git clone https://github.com/Anju-93905063/MedicalPrescription.git
 
 
 ## How to Contribute
-![WhatsApp Image 2025-01-26 at 17 26 55_6c60ef1a](https://github.com/user-attachments/assets/34505476-a837-4e2d-be7a-25f7041fec8d)
+
+![WhatsApp Image 2025-01-26 at 17 25 29_a7fc7676](https://github.com/user-attachments/assets/b3828c54-8714-4756-8e48-d1fee5a5e10d)
 
 ##Registration
 
